@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p align="center">
   <a href="https://bin-park.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-black?style=flat-square&logo=Github&logoColor=white"/></a>
   <a href="https://www.instagram.com/dudck_dudck/"><img src="https://img.shields.io/badge/Instagram-critical?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -26,3 +27,26 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
+-->
+
+<h3>✏️ 교육 Education</h3>
+<ul>
+  <li>강원대학교 컴퓨터과학전공 학사졸업 (2015.02-2020.02)</li>
+  <li>삼성SDS 알고리즘 동계 특강 수료 (2020.01-2020.01)</li>
+  <li>SSAFY 5기 수료(2021.01-2021.10) </li>
+</ul>
+
+<h3>💻 경력 Experience</h3>
+<ul>
+  <li>
+    하나금융TI / 증권매매셀 국내주식 / 대리 / 2021.11-2026.05
+  </li>
+</ul>
+
+<h3>🏆 수상 Award </h3>
+<!--
+____
+|기간|프로젝트명|수상|주최|
+____
+|1|1|1|1|
+-->
