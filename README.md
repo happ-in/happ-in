@@ -51,3 +51,9 @@ Here are some ideas to get you started:
 |21.08 ~ 21.10|[특화 프로젝트(Billige)](https://github.com/happ-in/Billige) |3등|삼성 청년 SW 아카데미|
 |25.04 ~ 25.10|[하나금융TI CoP](https://github.com/orgs/HanaParking/repositories)|1등|하나금융TI|
 
+<!--
+<h3>🛠️ 자격증</h3>
+- 정보처리기사
+- 리눅스마스터 2급
+- SQLD
+-->
