@@ -44,9 +44,10 @@ Here are some ideas to get you started:
 </ul>
 
 <h3>🏆 수상 Award </h3>
-<!--
-____
+
 |기간|프로젝트명|수상|주최|
-____
-|1|1|1|1|
--->
+|-|-|-|-|
+|21.07 ~ 21.08|[공통 프로젝트(track:웹디자인)](https://github.com/happ-in/BEAR)|2등|삼성 청년 SW 아카데미|
+|21.08 ~ 21.10|[특화 프로젝트(Billige)](https://github.com/happ-in/Billige) |3등|삼성 청년 SW 아카데미|
+|25.04 ~ 25.10|[하나금융TI CoP](https://github.com/orgs/HanaParking/repositories)|1등|하나금융TI|
+
