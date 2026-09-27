@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <li>강원대학교 컴퓨터과학전공 학사졸업 (2015.02-2020.02)</li>
   <li>삼성SDS 알고리즘 동계 특강 수료 (2020.01-2020.01)</li>
   <li>SSAFY 5기 수료(2021.01-2021.10) </li>
-  <li>프로그래머스 백엔드 단기심화 7기 ing (2026.06.30 ~ 2026.09.01) </li>
+  <li>프로그래머스 백엔드 단기심화 7기 수료 (2026.06.30 ~ 2026.09.01) </li>
 </ul>
 
 <h3>💻 경력 Experience</h3>
@@ -57,4 +57,5 @@ Here are some ideas to get you started:
 - 정보처리기사
 - 리눅스마스터 2급
 - SQLD
+- AICE Associate
 -->
